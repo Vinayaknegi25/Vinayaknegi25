@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vinayaknegi25
+- 👋 Hi, I’m Vinayak Negi
 - 👀 I’m interested in creating new projects monthly
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on learning and making statistical models and machine learning projects
