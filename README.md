@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vinayak Negi
-- 👀 I’m interested in creating new projects monthly
+- 👀 I’m interested in Project Management and develpoment
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on learning and making statistical models and machine learning projects
 - 📫 How to reach me Mail me : vinayaknegi40@gmail.com
